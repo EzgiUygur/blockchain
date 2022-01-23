@@ -1,0 +1,10 @@
+F:\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp2.0\BlockchainCoding.deps.json
+F:\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp2.0\BlockchainCoding.runtimeconfig.json
+F:\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp2.0\BlockchainCoding.runtimeconfig.dev.json
+F:\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp2.0\BlockchainCoding.dll
+F:\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp2.0\BlockchainCoding.csproj.CoreCompileInputs.cache
+F:\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp2.0\BlockchainCoding.AssemblyInfoInputs.cache
+F:\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp2.0\BlockchainCoding.AssemblyInfo.cs
+F:\BlockchainCoding\BlockchainCoding\bin\Debug\netcoreapp2.0\BlockchainCoding.pdb
+F:\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp2.0\BlockchainCoding.dll
+F:\BlockchainCoding\BlockchainCoding\obj\Debug\netcoreapp2.0\BlockchainCoding.pdb
